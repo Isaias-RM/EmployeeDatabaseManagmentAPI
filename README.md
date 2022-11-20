@@ -1,5 +1,6 @@
 An API that manages an employee name database
 
-It sorts by element attribute id: number
-and accepts "firstname": and "lastname":
-data.
+Instructions:
+To register a new user account sent a POST request to
+"localhost:3500/register"
+With a body format of { "user": "example", "pwd": "example"}

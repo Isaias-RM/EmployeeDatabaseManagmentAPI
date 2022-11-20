@@ -1,0 +1,2 @@
+20221119	10:43:47	d75a5025-8428-4281-8fb9-dceda9c61b84	POST	undefined	/register
+20221119	11:39:14	ca38aa83-9e5d-4f4e-9858-bfa8816ca38f	POST	undefined	/auth
